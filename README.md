@@ -2,7 +2,7 @@
 * 🔭 Currently playing with DSA, Back-end Development, JS and DevOps.
 * 🌱 Learning every aspect of Full-Stack development & DevOps.
 * 🛠 Single-handedly Developed `Preppr` https://play.google.com/store/apps/details?id=com.preppr.preppr_beta .
-* 📫 How to reach me: abhilash.dev@gmail.com  or `@_abhilashpatil` on twitter
+* 📫 How to reach me: abhilashpatil.dev@gmail.com  or `@_abhilashpatil` on twitter
 
 ---
 
