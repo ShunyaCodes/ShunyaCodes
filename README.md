@@ -1,7 +1,8 @@
 
-* 🔭 Currently playing with DSA, Back-end Development, JS and DevOps.
-* 🌱 Learning every aspect of Full-Stack development & DevOps.
-* 🛠 Single-handedly Developed `Preppr` https://play.google.com/store/apps/details?id=com.preppr.preppr_beta .
+* 🔭 Currently playing with DSA, Back-end Development, JS and DevOps
+* 🌱 Learning every aspect of Full-Stack development & DevOps
+* 🛠 Single-handedly Developed `Preppr` https://play.google.com/store/apps/details?id=com.preppr.preppr_beta
+
 * 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-abhilashpatil.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhilashpatil.dev@gmail.com)](mailto:abhilashpatil.dev@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-abhilashSpatil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhilashSpatil/)](https://www.linkedin.com/in/abhilashSpatil/)
 
 ---
