@@ -1,7 +1,7 @@
 
 I Design and build Products
-* ` 🛠 ` Developed **V-MODEL** ` Checkout ` :   [`Android Link`](https://play.google.com/store/apps/details?id=com.preppr.preppr_beta)  [`iOS Link`](https://apps.apple.com/in/app/preppr/id1585448129)
-* ` 🛠 ` Developed **ARYA-VISION** ` Checkout ` :   [`Android Link`](https://play.google.com/store/apps/details?id=com.preppr.preppr_beta)  [`iOS Link`](https://apps.apple.com/in/app/preppr/id1585448129)
+* ` 🛠 ` Developed **V-MODEL** ` Checkout ` :   [`Link`](https://www.vmodel.app)
+* ` 🛠 ` Developed **ARYA-VISION** ` Checkout ` :   [`Android Link`](https://play.google.com/store/apps/details?id=com.arya.aryavision)
 * ` 🛠 ` Developed **Preppr** ` Checkout ` :   [`Android Link`](https://play.google.com/store/apps/details?id=com.preppr.preppr_beta)
 
 
